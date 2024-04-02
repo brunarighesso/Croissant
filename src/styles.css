@@ -1,0 +1,27 @@
+body {
+  background: rgb(237, 239, 217);
+}
+h1 {
+  text-align: center;
+  font-size: 36px;
+  text-decoration: solid;
+}
+p {
+  text-align: center;
+}
+ul {
+  inline: block;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 10px;
+  color: darkgreen;
+}
+body {
+  background-color: lightsalmon;
+}
+.croissant-photo {
+  
+}
